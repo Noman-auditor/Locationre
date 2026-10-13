@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NORA TUNNEL — Phase 4 (VPN core)
 
 Android VPN client (Kotlin, Compose, Material 3). Package `com.nora.tunnel`.
@@ -25,3 +26,6 @@ WireGuard, QR scan, per-app routing, split tunnel and custom rules, light theme,
 
 ## Phase 5
 Protocols: SSH (Direct, Payload, HTTP proxy, SSL/TLS, WS/WSS, DNSTT) via JSch + local SOCKS5, SOCKS/HTTP proxy outbounds, mKCP, HTTP-header obfuscation, ss:// plugin v2ray-plugin, ssh:// and socks5:// links, manual profile form, .ovpn detection (engine not bundled).
+=======
+# Locationre
+>>>>>>> origin/main
